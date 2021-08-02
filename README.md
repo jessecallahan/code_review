@@ -27,4 +27,5 @@ const isStringUnique = (inputtedString) => {
 }
 
 const input = "food";
-isStringUnique(input);```
+isStringUnique(input);
+
