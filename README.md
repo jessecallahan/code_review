@@ -1,4 +1,4 @@
-Write an algorithm that determines wether all the elements in a string are unique
+```Write an algorithm that determines wether all the elements in a string are unique
 dont use arrays or array methods
 
 input: string
@@ -27,4 +27,4 @@ const isStringUnique = (inputtedString) => {
 }
 
 const input = "food";
-isStringUnique(input);
+isStringUnique(input);```
